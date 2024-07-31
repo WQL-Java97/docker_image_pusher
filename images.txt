@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 jenkins/jenkins:2.451-jdk11
 redis:6.0.8
+mysql:8.0.26
