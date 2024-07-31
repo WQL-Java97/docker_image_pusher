@@ -7,3 +7,4 @@ xhofe/alist:latest
 jenkins/jenkins:2.451-jdk11
 redis:6.0.8
 mysql:8.0.26
+xuxueli/xxl-job-admin:2.4.0
