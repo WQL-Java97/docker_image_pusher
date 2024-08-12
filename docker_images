@@ -1,0 +1,14 @@
+nginx
+#支持私库
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+xhofe/alist:latest
+#支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
+jenkins/jenkins:2.451-jdk11
+redis:6.0.8
+mysql:8.0.26
+xuxueli/xxl-job-admin:2.4.0
+quay.io/coreos/etcd:v3.5.5
+minio/minio:RELEASE.2024-07-16T23-46-41Z
+milvusdb/milvus:v2.4.6
+oracle:19c
