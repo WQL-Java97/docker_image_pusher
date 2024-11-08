@@ -1,1 +1,1 @@
-container-registry.oracle.com/database/express:21.3.0-xe
+nacos/nacos-server:2.4.3
